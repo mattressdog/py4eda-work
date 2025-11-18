@@ -1,0 +1,499 @@
+started_at,ended_at,start_station_name,end_station_name,member_casual,rideable_type,trip_duration_min
+2024-10-08 17:56:45.941,2024-10-09 18:56:40.471,DuSable Lake Shore Dr & Monroe St,,casual,classic_bike,1499.9088333333334
+2024-10-24 08:41:06.937,2024-10-24 11:08:44.250,DuSable Lake Shore Dr & Monroe St,New St & Illinois St,member,classic_bike,147.62188333333333
+2024-10-18 09:07:58.733,2024-10-18 11:32:06.622,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,electric_bike,144.1314833333333
+2024-10-11 17:25:29.491,2024-10-11 19:37:17.551,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Ida B Wells Dr,casual,classic_bike,131.80100000000002
+2024-10-05 09:55:34.798,2024-10-05 12:04:43.427,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & North Blvd,casual,classic_bike,129.14381666666665
+2024-10-04 08:29:36.872,2024-10-04 10:28:34.279,Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,casual,classic_bike,118.95678333333333
+2024-10-04 08:29:49.863,2024-10-04 10:28:10.448,Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,casual,classic_bike,118.34308333333334
+2024-10-29 17:30:34.182,2024-10-29 19:28:01.570,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & North Blvd,casual,classic_bike,117.45646666666667
+2024-10-23 17:45:45.494,2024-10-23 19:38:10.901,Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,casual,classic_bike,112.42345
+2024-10-13 07:18:08.826,2024-10-13 09:08:15.191,DuSable Lake Shore Dr & Monroe St,,casual,electric_bike,110.10608333333333
+2024-10-11 16:14:06.915,2024-10-11 18:03:05.980,DuSable Lake Shore Dr & Monroe St,Dusable Harbor,casual,electric_bike,108.98441666666666
+2024-10-11 16:36:50.228,2024-10-11 18:21:49.321,DuSable Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,casual,classic_bike,104.98488333333333
+2024-10-22 17:44:14.999,2024-10-22 19:28:19.551,DuSable Lake Shore Dr & Wellington Ave,,member,electric_bike,104.07586666666666
+2024-10-25 16:44:58.277,2024-10-25 18:25:32.459,Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,casual,classic_bike,100.5697
+2024-10-05 17:05:49.585,2024-10-05 18:36:23.419,DuSable Lake Shore Dr & Monroe St,Michigan Ave & 8th St,casual,electric_bike,90.5639
+2024-10-21 16:33:27.761,2024-10-21 18:03:46.350,DuSable Lake Shore Dr & Monroe St,Dusable Harbor,casual,classic_bike,90.30981666666666
+2024-10-19 17:16:17.808,2024-10-19 18:46:22.487,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,90.07798333333334
+2024-10-02 16:02:52.412,2024-10-02 17:31:07.408,DuSable Lake Shore Dr & North Blvd,Sheffield Ave & Waveland Ave,casual,electric_bike,88.24993333333333
+2024-10-26 07:43:56.207,2024-10-26 09:11:58.043,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,88.0306
+2024-10-18 17:16:47.491,2024-10-18 18:40:10.455,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,83.38273333333333
+2024-10-20 09:23:42.228,2024-10-20 10:46:55.043,DuSable Lake Shore Dr & Monroe St,Dusable Harbor,casual,classic_bike,83.21358333333333
+2024-10-28 17:31:31.827,2024-10-28 18:53:45.663,DuSable Lake Shore Dr & Diversey Pkwy,Burling St & Diversey Pkwy,casual,classic_bike,82.23060000000001
+2024-10-10 18:07:44.081,2024-10-10 19:27:20.423,DuSable Lake Shore Dr & Belmont Ave,California Ave & Fletcher St,member,classic_bike,79.6057
+2024-10-05 17:52:29.853,2024-10-05 19:11:05.674,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & North Blvd,member,classic_bike,78.59701666666666
+2024-10-19 17:52:09.593,2024-10-19 19:09:34.669,Lakefront Trail & Wilson Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,77.41793333333334
+2024-10-30 18:38:53.084,2024-10-30 19:55:44.794,Lakefront Trail & Bryn Mawr Ave,Lakefront Trail & Bryn Mawr Ave,casual,classic_bike,76.86183333333334
+2024-10-30 18:39:47.358,2024-10-30 19:55:19.770,Lakefront Trail & Bryn Mawr Ave,Lakefront Trail & Bryn Mawr Ave,casual,classic_bike,75.5402
+2024-10-09 17:50:29.202,2024-10-09 19:05:37.266,DuSable Lake Shore Dr & North Blvd,Lakeview Ave & Fullerton Pkwy,casual,classic_bike,75.1344
+2024-10-28 17:01:47.015,2024-10-28 18:16:12.171,DuSable Lake Shore Dr & Diversey Pkwy,Adler Planetarium,member,classic_bike,74.41926666666667
+2024-10-13 09:44:12.911,2024-10-13 10:57:48.680,DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Washington St,casual,classic_bike,73.59615000000001
+2024-10-26 09:36:40.416,2024-10-26 10:50:05.412,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,73.4166
+2024-10-11 16:48:29.880,2024-10-11 17:59:08.252,DuSable Lake Shore Dr & Monroe St,,casual,electric_bike,70.63953333333333
+2024-10-12 16:09:49.995,2024-10-12 17:19:01.602,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,69.19345
+2024-10-10 09:00:33.093,2024-10-10 10:08:20.214,Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,member,electric_bike,67.78535000000001
+2024-10-01 16:05:37.701,2024-10-01 17:12:42.164,DuSable Lake Shore Dr & Monroe St,Streeter Dr/Grand Ave,casual,classic_bike,67.07438333333333
+2024-10-06 17:27:37.213,2024-10-06 18:34:23.936,DuSable Lake Shore Dr & Diversey Pkwy,,member,electric_bike,66.77871666666667
+2024-10-11 08:06:15.078,2024-10-11 09:11:25.725,DuSable Lake Shore Dr & Belmont Ave,McCormick Place,casual,classic_bike,65.17745
+2024-10-01 16:02:13.117,2024-10-01 17:06:26.574,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,64.22428333333333
+2024-10-11 17:15:58.450,2024-10-11 18:20:04.009,DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Diversey Pkwy,casual,classic_bike,64.09265
+2024-10-11 18:26:06.738,2024-10-11 19:29:04.252,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,62.95856666666667
+2024-10-12 17:24:12.406,2024-10-12 18:27:09.756,DuSable Lake Shore Dr & Diversey Pkwy,,casual,electric_bike,62.95583333333333
+2024-10-24 16:18:38.755,2024-10-24 17:21:20.955,Lakefront Trail & Wilson Ave,Clark St & Leland Ave,member,classic_bike,62.70333333333333
+2024-10-21 16:40:50.987,2024-10-21 17:42:54.232,DuSable Lake Shore Dr & North Blvd,Theater on the Lake,casual,classic_bike,62.05408333333333
+2024-10-11 09:20:03.817,2024-10-11 10:21:47.113,DuSable Lake Shore Dr & Monroe St,Burnham Harbor,casual,classic_bike,61.721599999999995
+2024-10-09 18:33:53.313,2024-10-09 19:35:28.580,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,61.58778333333333
+2024-10-06 17:30:32.526,2024-10-06 18:31:26.030,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,60.891733333333335
+2024-10-06 18:01:10.597,2024-10-06 19:01:35.590,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & North Blvd,casual,classic_bike,60.41655
+2024-10-17 17:04:44.876,2024-10-17 18:04:30.856,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,59.766333333333336
+2024-10-08 18:05:54.171,2024-10-08 19:05:33.453,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,59.654700000000005
+2024-10-22 17:57:48.140,2024-10-22 18:57:10.918,Lakefront Trail & Bryn Mawr Ave,McClurg Ct & Ohio St,member,electric_bike,59.37963333333333
+2024-10-07 18:16:38.049,2024-10-07 19:15:21.277,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,58.72046666666667
+2024-10-12 16:29:52.152,2024-10-12 17:28:18.895,DuSable Lake Shore Dr & Monroe St,Elizabeth St & Randolph St,casual,classic_bike,58.44571666666666
+2024-10-13 16:41:42.294,2024-10-13 17:39:38.471,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & North Blvd,casual,classic_bike,57.936283333333336
+2024-10-20 17:29:00.776,2024-10-20 18:26:37.079,Lakefront Trail & Bryn Mawr Ave,Monticello Ave & Irving Park Rd,casual,classic_bike,57.60505
+2024-10-09 18:59:11.378,2024-10-09 19:56:02.633,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,56.85425
+2024-10-19 16:23:50.174,2024-10-19 17:19:54.732,DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Wellington Ave,casual,electric_bike,56.075966666666666
+2024-10-29 17:50:21.836,2024-10-29 18:46:12.428,DuSable Lake Shore Dr & North Blvd,Drake Ave & Montrose Ave,member,classic_bike,55.8432
+2024-10-11 17:27:34.173,2024-10-11 18:22:03.528,DuSable Lake Shore Dr & Monroe St,Theater on the Lake,casual,classic_bike,54.48925
+2024-10-11 18:56:51.038,2024-10-11 19:50:33.673,DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,53.71058333333334
+2024-10-11 18:57:07.913,2024-10-11 19:50:19.736,DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,53.19705
+2024-10-11 17:10:28.719,2024-10-11 18:03:20.452,Lakefront Trail & Bryn Mawr Ave,Michigan Ave & Oak St,member,classic_bike,52.86221666666667
+2024-10-31 17:24:56.394,2024-10-31 18:16:41.731,DuSable Lake Shore Dr & Monroe St,Broadway & Ridge Ave,member,classic_bike,51.75561666666667
+2024-10-03 17:23:34.654,2024-10-03 18:15:08.737,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,51.56805
+2024-10-04 18:49:35.926,2024-10-04 19:41:08.808,Lakefront Trail & Bryn Mawr Ave,Pine Grove Ave & Irving Park Rd,casual,electric_bike,51.548033333333336
+2024-10-10 16:24:27.067,2024-10-10 17:15:59.721,DuSable Lake Shore Dr & North Blvd,Millennium Park,casual,electric_bike,51.54423333333333
+2024-10-16 16:10:02.667,2024-10-16 17:00:34.752,Lakefront Trail & Bryn Mawr Ave,Field Blvd & South Water St,member,classic_bike,50.53475
+2024-10-21 16:27:04.574,2024-10-21 17:17:21.920,Lakefront Trail & Wilson Ave,Wilton Ave & Belmont Ave,casual,classic_bike,50.2891
+2024-10-20 16:18:51.433,2024-10-20 17:08:45.636,Lakefront Trail & Wilson Ave,Dusable Harbor,casual,classic_bike,49.90338333333333
+2024-10-21 18:49:52.079,2024-10-21 19:39:42.658,Lakefront Trail & Bryn Mawr Ave,Rush St & Superior St,casual,classic_bike,49.842983333333336
+2024-10-08 16:06:09.755,2024-10-08 16:55:53.702,DuSable Lake Shore Dr & North Blvd,Lakefront Trail & Bryn Mawr Ave,member,classic_bike,49.73245
+2024-10-20 17:50:24.425,2024-10-20 18:39:57.732,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,49.55511666666666
+2024-10-02 17:46:56.326,2024-10-02 18:36:21.680,Lakefront Trail & Bryn Mawr Ave,Streeter Dr & Grand Ave,member,classic_bike,49.42256666666666
+2024-10-13 17:35:20.550,2024-10-13 18:24:34.447,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,member,classic_bike,49.23161666666667
+2024-10-07 16:29:23.033,2024-10-07 17:18:04.550,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,48.69195
+2024-10-19 09:16:26.508,2024-10-19 10:04:53.994,DuSable Lake Shore Dr & Monroe St,Calumet Ave & 21st St,casual,classic_bike,48.458099999999995
+2024-10-01 16:50:58.706,2024-10-01 17:39:22.821,DuSable Lake Shore Dr & Monroe St,Sheridan Rd & Argyle St,member,classic_bike,48.401916666666665
+2024-10-25 16:56:10.065,2024-10-25 17:43:51.002,DuSable Lake Shore Dr & Monroe St,63rd St Beach,casual,classic_bike,47.68228333333333
+2024-10-23 18:01:01.806,2024-10-23 18:48:16.426,DuSable Lake Shore Dr & Belmont Ave,Lincoln Park Conservatory,casual,classic_bike,47.24366666666666
+2024-10-10 09:36:56.744,2024-10-10 10:23:53.139,DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,casual,classic_bike,46.93991666666667
+2024-10-04 16:58:03.307,2024-10-04 17:44:57.834,DuSable Lake Shore Dr & Monroe St,Adler Planetarium,member,classic_bike,46.90878333333333
+2024-10-21 17:02:08.571,2024-10-21 17:48:52.101,Lakefront Trail & Bryn Mawr Ave,Lakefront Trail & Bryn Mawr Ave,member,classic_bike,46.725500000000004
+2024-10-11 16:59:24.158,2024-10-11 17:45:45.639,DuSable Lake Shore Dr & Monroe St,Clarendon Ave & Leland Ave,member,classic_bike,46.35801666666667
+2024-10-05 17:43:42.450,2024-10-05 18:29:29.907,DuSable Lake Shore Dr & Monroe St,Dusable Harbor,casual,classic_bike,45.790949999999995
+2024-10-05 09:06:50.324,2024-10-05 09:52:32.357,DuSable Lake Shore Dr & Monroe St,Clark St & Lincoln Ave,member,electric_bike,45.70055
+2024-10-04 16:09:47.862,2024-10-04 16:55:28.276,Lakefront Trail & Wilson Ave,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,45.67356666666667
+2024-10-05 07:54:53.320,2024-10-05 08:39:26.546,DuSable Lake Shore Dr & North Blvd,Damen Ave & Pierce Ave,casual,electric_bike,44.55376666666667
+2024-10-07 18:08:38.472,2024-10-07 18:53:02.403,Lakefront Trail & Bryn Mawr Ave,Michigan Ave & 8th St,casual,electric_bike,44.39885
+2024-10-07 08:37:15.757,2024-10-07 09:21:35.096,Lakefront Trail & Bryn Mawr Ave,Streeter Dr/Grand Ave,casual,classic_bike,44.322316666666666
+2024-10-15 17:50:40.795,2024-10-15 18:34:50.997,DuSable Lake Shore Dr & Monroe St,Sheridan Rd & Argyle St,member,classic_bike,44.170033333333336
+2024-10-06 16:54:41.764,2024-10-06 17:38:49.160,DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Diversey Pkwy,member,classic_bike,44.12326666666667
+2024-10-19 18:05:08.943,2024-10-19 18:49:05.056,DuSable Lake Shore Dr & Monroe St,Montrose Harbor,casual,classic_bike,43.93521666666666
+2024-10-05 16:01:31.551,2024-10-05 16:44:11.587,DuSable Lake Shore Dr & Diversey Pkwy,,casual,electric_bike,42.66726666666667
+2024-10-05 18:12:38.850,2024-10-05 18:55:06.287,DuSable Lake Shore Dr & Wellington Ave,Pine Grove Ave & Waveland Ave,member,classic_bike,42.45728333333333
+2024-10-12 17:58:52.950,2024-10-12 18:41:13.629,DuSable Lake Shore Dr & Monroe St,Kimbark Ave & 53rd St,casual,classic_bike,42.34465
+2024-10-11 17:58:25.469,2024-10-11 18:40:29.848,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,42.07298333333333
+2024-10-09 17:30:58.539,2024-10-09 18:12:51.194,Lakefront Trail & Bryn Mawr Ave,Dusable Harbor,casual,classic_bike,41.877583333333334
+2024-10-21 17:16:59.308,2024-10-21 17:58:49.590,DuSable Lake Shore Dr & Monroe St,Leavitt St & Belmont Ave,casual,classic_bike,41.838033333333335
+2024-10-12 16:28:49.117,2024-10-12 17:10:24.359,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Diversey Pkwy,member,classic_bike,41.58736666666667
+2024-10-11 08:42:06.607,2024-10-11 09:23:40.643,DuSable Lake Shore Dr & Wellington Ave,Stockton Dr & Wrightwood Ave,casual,classic_bike,41.56726666666667
+2024-10-20 17:10:05.983,2024-10-20 17:51:36.680,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,41.51161666666667
+2024-10-01 17:17:03.722,2024-10-01 17:58:32.297,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,41.47625
+2024-10-11 17:16:59.984,2024-10-11 17:58:27.914,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Jackson Blvd,casual,electric_bike,41.4655
+2024-10-23 17:30:31.917,2024-10-23 18:11:49.687,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,41.296166666666664
+2024-10-09 17:18:12.099,2024-10-09 17:59:08.731,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,40.943866666666665
+2024-10-19 17:14:01.198,2024-10-19 17:54:49.637,DuSable Lake Shore Dr & Monroe St,Millennium Park,casual,classic_bike,40.807316666666665
+2024-10-03 18:25:55.773,2024-10-03 19:06:43.011,Lakefront Trail & Bryn Mawr Ave,Wells St & Hubbard St,member,classic_bike,40.787299999999995
+2024-10-11 09:41:13.204,2024-10-11 10:21:52.748,DuSable Lake Shore Dr & Monroe St,Wabash Ave & Cermak Rd,casual,classic_bike,40.65906666666667
+2024-10-09 18:47:10.875,2024-10-09 19:27:35.403,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,electric_bike,40.4088
+2024-10-25 09:09:02.818,2024-10-25 09:49:25.931,DuSable Lake Shore Dr & Monroe St,Daley Center Plaza,member,classic_bike,40.385216666666665
+2024-10-25 16:44:12.986,2024-10-25 17:24:18.704,DuSable Lake Shore Dr & North Blvd,,casual,electric_bike,40.095299999999995
+2024-10-13 07:59:45.545,2024-10-13 08:39:43.607,DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Wellington Ave,member,classic_bike,39.9677
+2024-10-11 08:43:36.363,2024-10-11 09:23:27.175,DuSable Lake Shore Dr & Wellington Ave,Stockton Dr & Wrightwood Ave,casual,classic_bike,39.84686666666666
+2024-10-19 16:03:54.596,2024-10-19 16:43:43.380,DuSable Lake Shore Dr & Monroe St,Financial Pl & Ida B Wells Dr,casual,classic_bike,39.81306666666667
+2024-10-12 16:03:40.519,2024-10-12 16:43:27.083,Lakefront Trail & Wilson Ave,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,39.776066666666665
+2024-10-19 16:04:21.169,2024-10-19 16:43:52.869,DuSable Lake Shore Dr & Monroe St,Financial Pl & Ida B Wells Dr,casual,classic_bike,39.52833333333333
+2024-10-23 17:46:06.239,2024-10-23 18:25:28.568,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,39.372150000000005
+2024-10-10 08:48:24.841,2024-10-10 09:27:40.871,DuSable Lake Shore Dr & Belmont Ave,Michigan Ave & 8th St,member,classic_bike,39.26716666666667
+2024-10-20 08:57:01.148,2024-10-20 09:36:16.415,DuSable Lake Shore Dr & Belmont Ave,Aberdeen St & Monroe St,casual,electric_bike,39.25445
+2024-10-21 18:03:43.943,2024-10-21 18:42:48.369,DuSable Lake Shore Dr & North Blvd,Lakefront Trail & Wilson Ave,casual,electric_bike,39.073766666666664
+2024-10-20 07:25:16.898,2024-10-20 08:03:56.465,Lakefront Trail & Bryn Mawr Ave,DuSable Lake Shore Dr & Monroe St,casual,electric_bike,38.65945
+2024-10-11 16:40:03.545,2024-10-11 17:18:41.072,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,38.62545
+2024-10-23 18:57:36.105,2024-10-23 19:36:12.729,DuSable Lake Shore Dr & Monroe St,Clark St & Wellington Ave,member,classic_bike,38.6104
+2024-10-05 16:12:05.644,2024-10-05 16:50:41.825,Lakefront Trail & Bryn Mawr Ave,State St & Kinzie St,member,electric_bike,38.60301666666667
+2024-10-11 17:01:22.541,2024-10-11 17:39:46.032,Lakefront Trail & Wilson Ave,Broadway & Wilson Ave,casual,classic_bike,38.39151666666667
+2024-10-21 16:40:03.418,2024-10-21 17:18:25.419,Lakefront Trail & Bryn Mawr Ave,,member,electric_bike,38.366683333333334
+2024-10-19 16:23:50.477,2024-10-19 17:02:05.397,DuSable Lake Shore Dr & Diversey Pkwy,Field Museum,member,classic_bike,38.248666666666665
+2024-10-10 09:23:45.261,2024-10-10 10:01:55.770,DuSable Lake Shore Dr & Monroe St,McCormick Place,casual,classic_bike,38.17515
+2024-10-21 18:26:07.844,2024-10-21 19:04:13.704,Lakefront Trail & Bryn Mawr Ave,DuSable Lake Shore Dr & Monroe St,member,classic_bike,38.09766666666667
+2024-10-23 18:10:31.987,2024-10-23 18:48:34.517,Lakefront Trail & Bryn Mawr Ave,Theater on the Lake,member,classic_bike,38.04216666666667
+2024-10-26 16:34:06.900,2024-10-26 17:12:01.320,DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,casual,classic_bike,37.907000000000004
+2024-10-19 08:53:02.107,2024-10-19 09:30:51.461,Lakefront Trail & Bryn Mawr Ave,Chicago Ave & Sheridan Rd,member,classic_bike,37.82256666666667
+2024-10-08 09:14:20.565,2024-10-08 09:52:03.707,Lakefront Trail & Bryn Mawr Ave,Halsted St & North Branch St,member,classic_bike,37.71903333333333
+2024-10-06 17:07:49.876,2024-10-06 17:45:21.873,DuSable Lake Shore Dr & Monroe St,Pine Grove Ave & Waveland Ave,casual,electric_bike,37.53328333333333
+2024-10-05 18:16:33.657,2024-10-05 18:53:55.288,DuSable Lake Shore Dr & Belmont Ave,Calumet Ave & 18th St,member,classic_bike,37.36051666666666
+2024-10-29 17:41:46.246,2024-10-29 18:19:00.901,DuSable Lake Shore Dr & North Blvd,,member,electric_bike,37.24425
+2024-10-12 08:45:14.938,2024-10-12 09:22:25.230,Lakefront Trail & Wilson Ave,New St & Illinois St,member,classic_bike,37.17153333333333
+2024-10-19 17:31:20.742,2024-10-19 18:08:28.612,DuSable Lake Shore Dr & Monroe St,Field Blvd & South Water St,casual,classic_bike,37.131166666666665
+2024-10-02 16:09:15.758,2024-10-02 16:46:17.380,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,37.02703333333333
+2024-10-22 17:22:04.983,2024-10-22 17:58:51.211,Lakefront Trail & Bryn Mawr Ave,Field Blvd & South Water St,casual,electric_bike,36.77046666666667
+2024-10-07 16:20:13.083,2024-10-07 16:56:53.199,DuSable Lake Shore Dr & Monroe St,Dusable Harbor,casual,classic_bike,36.6686
+2024-10-11 17:23:05.736,2024-10-11 17:59:30.558,DuSable Lake Shore Dr & Belmont Ave,Dusable Harbor,casual,electric_bike,36.4137
+2024-10-19 18:08:55.024,2024-10-19 18:44:56.747,DuSable Lake Shore Dr & Wellington Ave,Campbell Ave & North Ave,member,classic_bike,36.02871666666667
+2024-10-18 16:11:56.143,2024-10-18 16:47:40.997,DuSable Lake Shore Dr & Wellington Ave,Western Ave & Leland Ave,member,classic_bike,35.747566666666664
+2024-10-10 17:30:15.204,2024-10-10 18:05:56.504,DuSable Lake Shore Dr & North Blvd,,casual,electric_bike,35.68833333333334
+2024-10-19 17:33:15.140,2024-10-19 18:08:40.069,DuSable Lake Shore Dr & Monroe St,Field Blvd & South Water St,casual,classic_bike,35.415483333333334
+2024-10-02 17:26:18.503,2024-10-02 18:01:27.465,DuSable Lake Shore Dr & Belmont Ave,Shedd Aquarium,member,classic_bike,35.149366666666666
+2024-10-15 07:59:14.933,2024-10-15 08:34:21.524,Lakefront Trail & Bryn Mawr Ave,Millennium Park,member,electric_bike,35.10985
+2024-10-04 08:19:33.460,2024-10-04 08:54:39.393,Lakefront Trail & Wilson Ave,Theater on the Lake,member,classic_bike,35.09888333333333
+2024-10-05 16:17:39.070,2024-10-05 16:52:38.597,DuSable Lake Shore Dr & Diversey Pkwy,Rush St & Cedar St,casual,electric_bike,34.99211666666667
+2024-10-29 17:08:05.585,2024-10-29 17:43:02.057,DuSable Lake Shore Dr & North Blvd,California Ave & Fletcher St,member,classic_bike,34.9412
+2024-10-14 17:09:48.025,2024-10-14 17:44:39.749,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Diversey Pkwy,member,classic_bike,34.86206666666667
+2024-10-03 18:05:29.375,2024-10-03 18:40:17.470,DuSable Lake Shore Dr & North Blvd,Lake Park Ave & 35th St,member,classic_bike,34.80158333333333
+2024-10-29 17:38:23.477,2024-10-29 18:13:08.107,Lakefront Trail & Bryn Mawr Ave,DuSable Lake Shore Dr & North Blvd,member,classic_bike,34.743833333333335
+2024-10-20 16:41:33.452,2024-10-20 17:16:12.429,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,casual,classic_bike,34.64961666666667
+2024-10-06 17:22:55.874,2024-10-06 17:57:33.310,Lakefront Trail & Bryn Mawr Ave,Chicago Ave & Sheridan Rd,member,classic_bike,34.62393333333333
+2024-10-12 17:23:22.808,2024-10-12 17:57:55.463,Lakefront Trail & Wilson Ave,Dearborn St & Erie St,member,classic_bike,34.544250000000005
+2024-10-10 09:10:26.452,2024-10-10 09:44:52.172,Lakefront Trail & Bryn Mawr Ave,DuSable Lake Shore Dr & North Blvd,member,classic_bike,34.428666666666665
+2024-10-07 17:40:15.514,2024-10-07 18:14:40.852,DuSable Lake Shore Dr & Belmont Ave,Indiana Ave & Roosevelt Rd,casual,classic_bike,34.4223
+2024-10-28 09:00:42.893,2024-10-28 09:35:06.633,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Monroe St,member,classic_bike,34.39566666666666
+2024-10-25 18:00:25.576,2024-10-25 18:34:47.189,DuSable Lake Shore Dr & Monroe St,Buckingham Fountain,casual,classic_bike,34.360216666666666
+2024-10-11 18:17:33.155,2024-10-11 18:51:54.241,DuSable Lake Shore Dr & Monroe St,McClurg Ct & Ohio St,casual,classic_bike,34.35143333333333
+2024-10-10 17:18:15.439,2024-10-10 17:52:20.769,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,34.08883333333333
+2024-10-21 07:52:30.990,2024-10-21 08:26:26.234,DuSable Lake Shore Dr & Belmont Ave,Damen Ave & Madison St,member,electric_bike,33.92073333333333
+2024-10-05 18:29:17.542,2024-10-05 19:03:02.065,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,casual,classic_bike,33.74205
+2024-10-10 18:17:13.728,2024-10-10 18:50:52.394,DuSable Lake Shore Dr & North Blvd,Marine Dr & Ainslie St,casual,classic_bike,33.64443333333333
+2024-10-19 16:54:38.252,2024-10-19 17:28:13.346,DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Wellington Ave,member,classic_bike,33.5849
+2024-10-25 16:14:38.487,2024-10-25 16:48:12.286,DuSable Lake Shore Dr & North Blvd,,casual,electric_bike,33.563316666666665
+2024-10-28 17:57:49.544,2024-10-28 18:31:07.758,Lakefront Trail & Wilson Ave,Streeter Dr/Grand Ave,member,classic_bike,33.30356666666667
+2024-10-11 16:04:58.025,2024-10-11 16:38:12.055,DuSable Lake Shore Dr & Diversey Pkwy,Theater on the Lake,member,classic_bike,33.23383333333333
+2024-10-02 18:59:19.732,2024-10-02 19:32:29.203,DuSable Lake Shore Dr & Diversey Pkwy,,member,electric_bike,33.15785
+2024-10-09 17:25:57.535,2024-10-09 17:58:54.727,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,member,classic_bike,32.9532
+2024-10-19 16:47:21.375,2024-10-19 17:20:09.328,DuSable Lake Shore Dr & Monroe St,Calumet Ave & 18th St,casual,classic_bike,32.799216666666666
+2024-10-19 18:17:38.881,2024-10-19 18:50:24.979,DuSable Lake Shore Dr & Monroe St,Clinton St & Jackson Blvd,member,classic_bike,32.768299999999996
+2024-10-22 17:36:00.550,2024-10-22 18:08:44.508,DuSable Lake Shore Dr & Monroe St,Burnham Harbor,casual,classic_bike,32.73263333333333
+2024-10-14 17:59:08.599,2024-10-14 18:31:38.448,Lakefront Trail & Bryn Mawr Ave,DuSable Lake Shore Dr & Belmont Ave,member,classic_bike,32.497483333333335
+2024-10-20 18:12:13.065,2024-10-20 18:44:30.100,Lakefront Trail & Bryn Mawr Ave,Lakeview Ave & Fullerton Pkwy,member,classic_bike,32.28391666666667
+2024-10-06 16:30:23.728,2024-10-06 17:02:34.938,DuSable Lake Shore Dr & Monroe St,Millennium Park,casual,classic_bike,32.18683333333333
+2024-10-21 16:33:11.260,2024-10-21 17:05:20.065,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,32.146750000000004
+2024-10-28 18:36:17.141,2024-10-28 19:08:25.740,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Wellington Ave,member,classic_bike,32.143316666666664
+2024-10-08 17:02:05.334,2024-10-08 17:34:06.683,DuSable Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,casual,electric_bike,32.022483333333334
+2024-10-10 18:11:58.797,2024-10-10 18:43:53.533,DuSable Lake Shore Dr & Monroe St,Columbus Dr & Randolph St,member,electric_bike,31.912266666666667
+2024-10-30 07:57:55.829,2024-10-30 08:29:47.362,Lakefront Trail & Bryn Mawr Ave,Millennium Park,member,electric_bike,31.85888333333333
+2024-10-12 09:29:01.418,2024-10-12 10:00:51.803,Lakefront Trail & Bryn Mawr Ave,Montrose Harbor,member,classic_bike,31.83975
+2024-10-19 16:47:01.908,2024-10-19 17:18:49.205,DuSable Lake Shore Dr & Monroe St,Calumet Ave & 18th St,casual,classic_bike,31.788283333333332
+2024-10-23 18:01:42.892,2024-10-23 18:33:29.951,DuSable Lake Shore Dr & Belmont Ave,Broadway & Granville Ave,member,classic_bike,31.784316666666665
+2024-10-27 07:39:42.404,2024-10-27 08:11:14.540,DuSable Lake Shore Dr & Diversey Pkwy,May St & Taylor St,member,electric_bike,31.5356
+2024-10-23 16:59:21.673,2024-10-23 17:30:48.426,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Belmont Ave,member,classic_bike,31.44588333333333
+2024-10-29 16:04:02.213,2024-10-29 16:35:24.740,DuSable Lake Shore Dr & Monroe St,Greenview Ave & Fullerton Ave,member,classic_bike,31.37545
+2024-10-08 17:41:27.189,2024-10-08 18:12:43.014,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,31.26375
+2024-10-06 16:18:47.415,2024-10-06 16:50:01.616,Lakefront Trail & Bryn Mawr Ave,Broadway & Waveland Ave,member,classic_bike,31.236683333333335
+2024-10-11 16:11:08.936,2024-10-11 16:42:17.517,DuSable Lake Shore Dr & North Blvd,,member,electric_bike,31.143016666666664
+2024-10-13 16:06:24.372,2024-10-13 16:37:27.964,DuSable Lake Shore Dr & Monroe St,Clark St & Lincoln Ave,casual,classic_bike,31.059866666666668
+2024-10-26 17:09:27.619,2024-10-26 17:40:24.692,Lakefront Trail & Wilson Ave,Streeter Dr & Grand Ave,member,classic_bike,30.951216666666667
+2024-10-30 16:11:30.748,2024-10-30 16:42:07.667,Lakefront Trail & Bryn Mawr Ave,Clark St & Elm St,member,electric_bike,30.61531666666667
+2024-10-03 16:05:42.989,2024-10-03 16:36:16.057,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,30.551133333333333
+2024-10-13 08:05:31.935,2024-10-13 08:36:02.700,Lakefront Trail & Bryn Mawr Ave,,casual,electric_bike,30.51275
+2024-10-11 16:01:15.001,2024-10-11 16:31:43.910,DuSable Lake Shore Dr & Belmont Ave,Western Ave & Winnebago Ave,casual,classic_bike,30.481816666666667
+2024-10-27 07:45:54.188,2024-10-27 08:16:19.680,DuSable Lake Shore Dr & Monroe St,Green St & Madison St,casual,electric_bike,30.424866666666667
+2024-10-05 17:42:09.277,2024-10-05 18:12:33.218,Lakefront Trail & Bryn Mawr Ave,Lincoln Ave & Winona St,member,classic_bike,30.399016666666668
+2024-10-05 16:57:39.412,2024-10-05 17:28:03.112,DuSable Lake Shore Dr & Monroe St,McCormick Place,casual,classic_bike,30.395
+2024-10-28 09:47:50.725,2024-10-28 10:17:54.630,DuSable Lake Shore Dr & Belmont Ave,Sheridan Rd & Columbia Ave,member,classic_bike,30.065083333333334
+2024-10-05 17:45:45.745,2024-10-05 18:15:46.872,Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,casual,electric_bike,30.01878333333333
+2024-10-17 17:34:23.767,2024-10-17 18:04:19.327,DuSable Lake Shore Dr & Monroe St,Burling St & Diversey Pkwy,member,classic_bike,29.926
+2024-10-07 09:33:09.063,2024-10-07 10:03:02.617,DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,casual,electric_bike,29.892566666666667
+2024-10-20 17:46:14.245,2024-10-20 18:16:06.630,DuSable Lake Shore Dr & North Blvd,California Ave & North Ave,member,classic_bike,29.873083333333334
+2024-10-03 18:48:56.914,2024-10-03 19:18:48.811,DuSable Lake Shore Dr & Monroe St,Dusable Harbor,casual,classic_bike,29.86495
+2024-10-01 16:03:29.442,2024-10-01 16:33:10.664,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,casual,classic_bike,29.687033333333332
+2024-10-17 17:44:21.270,2024-10-17 18:14:01.532,DuSable Lake Shore Dr & North Blvd,Broadway & Ridge Ave,member,classic_bike,29.671033333333334
+2024-10-13 07:45:31.818,2024-10-13 08:15:05.551,DuSable Lake Shore Dr & Monroe St,Lincoln Park Conservatory,casual,classic_bike,29.562216666666664
+2024-10-13 07:46:31.126,2024-10-13 08:15:47.997,DuSable Lake Shore Dr & Wellington Ave,St. Clair St & Erie St,casual,classic_bike,29.281183333333335
+2024-10-30 18:52:22.635,2024-10-30 19:21:39.366,DuSable Lake Shore Dr & Monroe St,Sheridan Rd & Montrose Ave,member,classic_bike,29.27885
+2024-10-18 18:13:03.596,2024-10-18 18:42:19.748,DuSable Lake Shore Dr & Diversey Pkwy,,casual,electric_bike,29.2692
+2024-10-05 08:44:51.755,2024-10-05 09:14:06.913,DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,casual,classic_bike,29.252633333333332
+2024-10-24 17:02:40.170,2024-10-24 17:31:54.898,DuSable Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,casual,classic_bike,29.24546666666667
+2024-10-25 18:42:46.441,2024-10-25 19:11:57.195,DuSable Lake Shore Dr & North Blvd,State St & Kinzie St,casual,classic_bike,29.179233333333332
+2024-10-17 18:12:49.158,2024-10-17 18:41:59.105,DuSable Lake Shore Dr & Diversey Pkwy,Broadway & Thorndale Ave,member,classic_bike,29.16578333333333
+2024-10-26 16:42:31.553,2024-10-26 17:11:41.449,DuSable Lake Shore Dr & Monroe St,Cannon Dr & Fullerton Ave,casual,electric_bike,29.164933333333334
+2024-10-05 16:59:06.401,2024-10-05 17:28:09.117,DuSable Lake Shore Dr & Monroe St,McCormick Place,casual,classic_bike,29.045266666666667
+2024-10-13 17:02:06.758,2024-10-13 17:31:06.522,DuSable Lake Shore Dr & Diversey Pkwy,Millennium Park,casual,classic_bike,28.996066666666664
+2024-10-13 08:40:42.038,2024-10-13 09:09:38.560,DuSable Lake Shore Dr & Wellington Ave,,casual,electric_bike,28.94203333333333
+2024-10-06 17:39:21.623,2024-10-06 18:08:14.780,DuSable Lake Shore Dr & Monroe St,Clifton Ave & Armitage Ave,casual,classic_bike,28.885949999999998
+2024-10-28 18:37:09.363,2024-10-28 19:06:00.091,DuSable Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,casual,electric_bike,28.845466666666667
+2024-10-05 09:08:44.592,2024-10-05 09:37:35.224,DuSable Lake Shore Dr & North Blvd,Field Museum,member,classic_bike,28.843866666666667
+2024-10-30 16:52:14.808,2024-10-30 17:21:04.607,DuSable Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,casual,classic_bike,28.829983333333335
+2024-10-11 08:41:49.312,2024-10-11 09:10:34.255,DuSable Lake Shore Dr & North Blvd,Burnham Harbor,casual,classic_bike,28.74905
+2024-10-20 16:41:04.585,2024-10-20 17:09:45.311,DuSable Lake Shore Dr & North Blvd,Theater on the Lake,member,classic_bike,28.678766666666668
+2024-10-26 18:03:47.005,2024-10-26 18:32:26.294,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,electric_bike,28.654816666666665
+2024-10-21 17:32:07.937,2024-10-21 18:00:44.540,DuSable Lake Shore Dr & Monroe St,Adler Planetarium,member,classic_bike,28.61005
+2024-10-05 17:46:47.898,2024-10-05 18:15:24.117,DuSable Lake Shore Dr & North Blvd,Michigan Ave & Oak St,casual,classic_bike,28.603650000000002
+2024-10-14 18:07:14.989,2024-10-14 18:35:50.014,DuSable Lake Shore Dr & Wellington Ave,Clinton St & Jackson Blvd,member,electric_bike,28.583750000000002
+2024-10-01 18:24:14.794,2024-10-01 18:52:44.027,DuSable Lake Shore Dr & Monroe St,Wabash Ave & 16th St,casual,classic_bike,28.487216666666665
+2024-10-16 16:18:52.748,2024-10-16 16:47:21.969,DuSable Lake Shore Dr & North Blvd,Green St & Madison St,member,classic_bike,28.487016666666666
+2024-10-05 16:51:15.646,2024-10-05 17:19:40.253,Lakefront Trail & Wilson Ave,Rush St & Superior St,casual,electric_bike,28.410116666666667
+2024-10-21 08:22:30.892,2024-10-21 08:50:53.710,DuSable Lake Shore Dr & Wellington Ave,Clark St & Berwyn Ave,member,classic_bike,28.3803
+2024-10-09 16:34:09.078,2024-10-09 17:02:29.613,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,28.34225
+2024-10-20 16:16:12.950,2024-10-20 16:44:25.222,Lakefront Trail & Wilson Ave,DuSable Lake Shore Dr & Diversey Pkwy,casual,classic_bike,28.204533333333334
+2024-10-07 09:10:27.904,2024-10-07 09:38:32.581,DuSable Lake Shore Dr & Belmont Ave,Desplaines St & Kinzie St,member,classic_bike,28.077949999999998
+2024-10-21 18:15:41.307,2024-10-21 18:43:43.079,Lakefront Trail & Bryn Mawr Ave,Broadway & Cornelia Ave,member,classic_bike,28.029533333333333
+2024-10-05 09:14:27.906,2024-10-05 09:42:28.429,Lakefront Trail & Wilson Ave,Theater on the Lake,member,classic_bike,28.008716666666665
+2024-10-07 17:02:17.332,2024-10-07 17:30:17.136,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,27.996733333333335
+2024-10-21 16:43:21.922,2024-10-21 17:11:21.585,Lakefront Trail & Bryn Mawr Ave,Montrose Harbor,member,classic_bike,27.994383333333335
+2024-10-28 18:15:38.319,2024-10-28 18:43:36.515,Lakefront Trail & Wilson Ave,DuSable Lake Shore Dr & North Blvd,member,classic_bike,27.969933333333334
+2024-10-30 16:53:15.769,2024-10-30 17:21:08.759,DuSable Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,casual,classic_bike,27.883166666666668
+2024-10-12 18:44:23.517,2024-10-12 19:12:13.452,DuSable Lake Shore Dr & Monroe St,Halsted St & 18th St,casual,classic_bike,27.83225
+2024-10-06 16:15:37.468,2024-10-06 16:43:25.934,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,27.807766666666666
+2024-10-01 17:12:21.061,2024-10-01 17:40:07.948,DuSable Lake Shore Dr & Monroe St,St. Clair St & Erie St,casual,classic_bike,27.78145
+2024-10-26 17:42:43.509,2024-10-26 18:10:17.259,Lakefront Trail & Bryn Mawr Ave,DuSable Lake Shore Dr & North Blvd,member,classic_bike,27.5625
+2024-10-08 18:17:09.166,2024-10-08 18:44:40.892,DuSable Lake Shore Dr & Wellington Ave,Leavitt St & Chicago Ave,member,electric_bike,27.52876666666667
+2024-10-08 07:11:22.572,2024-10-08 07:38:53.042,DuSable Lake Shore Dr & Belmont Ave,Green St & Randolph St*,member,electric_bike,27.507833333333334
+2024-10-11 08:10:59.972,2024-10-11 08:38:22.628,DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Monroe St,member,classic_bike,27.377599999999997
+2024-10-31 09:08:38.005,2024-10-31 09:35:50.605,DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Lake St,member,classic_bike,27.209999999999997
+2024-10-12 08:57:28.763,2024-10-12 09:24:36.625,DuSable Lake Shore Dr & Monroe St,Wabash Ave & Cermak Rd,casual,electric_bike,27.131033333333335
+2024-10-23 09:52:04.371,2024-10-23 10:19:08.344,DuSable Lake Shore Dr & Belmont Ave,St. Clair St & Erie St,casual,classic_bike,27.066216666666666
+2024-10-13 16:08:10.283,2024-10-13 16:35:10.479,DuSable Lake Shore Dr & Diversey Pkwy,Monticello Ave & Irving Park Rd,member,electric_bike,27.003266666666665
+2024-10-10 16:58:27.474,2024-10-10 17:25:23.322,DuSable Lake Shore Dr & North Blvd,Indiana Ave & Roosevelt Rd,casual,classic_bike,26.930799999999998
+2024-10-05 17:25:24.000,2024-10-05 17:52:13.168,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,26.819466666666663
+2024-10-25 18:04:59.605,2024-10-25 18:31:39.106,DuSable Lake Shore Dr & Diversey Pkwy,,member,electric_bike,26.65835
+2024-10-27 17:25:08.551,2024-10-27 17:51:45.745,DuSable Lake Shore Dr & Monroe St,,member,electric_bike,26.619899999999998
+2024-10-12 08:07:14.457,2024-10-12 08:33:43.290,Lakefront Trail & Bryn Mawr Ave,,member,electric_bike,26.48055
+2024-10-07 09:51:24.305,2024-10-07 10:17:52.579,DuSable Lake Shore Dr & Monroe St,,casual,electric_bike,26.47123333333333
+2024-10-21 17:10:55.413,2024-10-21 17:37:21.968,Lakefront Trail & Bryn Mawr Ave,Sheridan Rd & Loyola Ave,casual,electric_bike,26.442583333333335
+2024-10-25 09:16:22.732,2024-10-25 09:42:45.743,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,casual,classic_bike,26.383516666666665
+2024-10-12 16:10:31.411,2024-10-12 16:36:52.777,DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,26.3561
+2024-10-25 18:57:23.386,2024-10-25 19:23:41.668,DuSable Lake Shore Dr & Diversey Pkwy,Desplaines St & Jackson Blvd,member,electric_bike,26.3047
+2024-10-02 16:41:20.217,2024-10-02 17:07:36.459,DuSable Lake Shore Dr & Wellington Ave,Ravenswood Ave & Lawrence Ave,member,classic_bike,26.270699999999998
+2024-10-07 17:48:44.270,2024-10-07 18:15:00.250,DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Diversey Pkwy,casual,classic_bike,26.266333333333332
+2024-10-17 17:13:21.248,2024-10-17 17:39:36.662,DuSable Lake Shore Dr & Monroe St,New St & Illinois St,casual,classic_bike,26.256899999999998
+2024-10-12 16:22:24.431,2024-10-12 16:48:23.930,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,casual,classic_bike,25.99165
+2024-10-02 16:21:58.313,2024-10-02 16:47:51.505,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,25.886533333333333
+2024-10-12 17:55:08.068,2024-10-12 18:20:59.722,DuSable Lake Shore Dr & Monroe St,New St & Illinois St,casual,classic_bike,25.8609
+2024-10-19 17:27:09.489,2024-10-19 17:52:52.471,DuSable Lake Shore Dr & North Blvd,Pine Grove Ave & Waveland Ave,casual,classic_bike,25.716366666666666
+2024-10-02 09:19:29.409,2024-10-02 09:45:11.510,DuSable Lake Shore Dr & North Blvd,Ashland Ave & Wellington Ave,member,classic_bike,25.701683333333335
+2024-10-20 16:17:35.873,2024-10-20 16:43:16.255,DuSable Lake Shore Dr & Belmont Ave,Fairbanks Ct & Grand Ave,member,classic_bike,25.673033333333333
+2024-10-20 09:53:51.117,2024-10-20 10:19:27.339,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,casual,classic_bike,25.6037
+2024-10-20 17:31:40.623,2024-10-20 17:57:15.225,DuSable Lake Shore Dr & Monroe St,Blue Island Ave & 18th St,member,electric_bike,25.576700000000002
+2024-10-08 16:56:17.680,2024-10-08 17:21:51.158,Lakefront Trail & Bryn Mawr Ave,Sheridan Rd & Columbia Ave,member,classic_bike,25.55796666666667
+2024-10-29 17:50:07.478,2024-10-29 18:15:28.593,DuSable Lake Shore Dr & Wellington Ave,Broadway & Berwyn Ave,casual,classic_bike,25.351916666666668
+2024-10-20 17:29:28.874,2024-10-20 17:54:49.152,DuSable Lake Shore Dr & North Blvd,Sheridan Rd & Buena Ave,member,classic_bike,25.337966666666667
+2024-10-11 09:06:15.156,2024-10-11 09:31:28.090,DuSable Lake Shore Dr & Monroe St,Burnham Harbor,casual,classic_bike,25.215566666666668
+2024-10-29 16:19:38.460,2024-10-29 16:44:45.892,DuSable Lake Shore Dr & Monroe St,Fairbanks Ct & Grand Ave,casual,classic_bike,25.123866666666668
+2024-10-21 16:15:26.841,2024-10-21 16:40:32.464,DuSable Lake Shore Dr & Diversey Pkwy,Monticello Ave & Irving Park Rd,member,electric_bike,25.09371666666667
+2024-10-20 09:42:51.287,2024-10-20 10:07:46.073,DuSable Lake Shore Dr & Monroe St,Dusable Harbor,casual,electric_bike,24.9131
+2024-10-27 17:12:30.577,2024-10-27 17:37:19.320,Lakefront Trail & Bryn Mawr Ave,DuSable Lake Shore Dr & Wellington Ave,member,classic_bike,24.812383333333333
+2024-10-20 18:06:35.021,2024-10-20 18:31:23.441,DuSable Lake Shore Dr & Diversey Pkwy,Kingsbury St & Kinzie St,member,classic_bike,24.807000000000002
+2024-10-05 16:45:09.364,2024-10-05 17:09:56.009,DuSable Lake Shore Dr & North Blvd,Clarendon Ave & Junior Ter,member,classic_bike,24.777416666666667
+2024-10-05 17:39:25.303,2024-10-05 18:04:03.571,DuSable Lake Shore Dr & Monroe St,Clark St & Elm St,casual,classic_bike,24.637800000000002
+2024-10-06 09:18:26.445,2024-10-06 09:43:00.199,DuSable Lake Shore Dr & Diversey Pkwy,Dusable Harbor,member,classic_bike,24.562566666666665
+2024-10-12 16:37:59.161,2024-10-12 17:02:23.110,DuSable Lake Shore Dr & Monroe St,Millennium Park,casual,classic_bike,24.399150000000002
+2024-10-04 16:27:37.806,2024-10-04 16:51:55.758,DuSable Lake Shore Dr & Diversey Pkwy,Ada St & Washington Blvd,member,electric_bike,24.2992
+2024-10-13 08:28:09.602,2024-10-13 08:52:17.844,DuSable Lake Shore Dr & Belmont Ave,LaSalle St & Adams St,casual,electric_bike,24.137366666666665
+2024-10-19 17:00:16.225,2024-10-19 17:24:19.350,Lakefront Trail & Bryn Mawr Ave,Bosworth Ave & Howard St,member,classic_bike,24.052083333333332
+2024-10-05 17:16:44.643,2024-10-05 17:40:44.315,DuSable Lake Shore Dr & North Blvd,Broadway & Cornelia Ave,casual,classic_bike,23.994533333333333
+2024-10-14 17:20:50.512,2024-10-14 17:44:48.622,DuSable Lake Shore Dr & Diversey Pkwy,Orleans St & Hubbard St,member,classic_bike,23.9685
+2024-10-05 08:02:18.050,2024-10-05 08:26:14.890,DuSable Lake Shore Dr & Monroe St,Michigan Ave & 14th St,casual,classic_bike,23.947333333333333
+2024-10-08 09:49:43.705,2024-10-08 10:13:38.534,DuSable Lake Shore Dr & Diversey Pkwy,Larrabee St & Kingsbury St,member,classic_bike,23.913816666666666
+2024-10-20 16:49:54.032,2024-10-20 17:13:42.313,DuSable Lake Shore Dr & Belmont Ave,Winthrop Ave & Lawrence Ave,casual,classic_bike,23.804683333333333
+2024-10-14 16:18:21.309,2024-10-14 16:42:07.110,DuSable Lake Shore Dr & North Blvd,Wells St & Polk St,member,classic_bike,23.76335
+2024-10-19 17:56:31.553,2024-10-19 18:20:15.307,Lakefront Trail & Bryn Mawr Ave,Southport Ave & Irving Park Rd,casual,classic_bike,23.729233333333333
+2024-10-01 08:41:30.566,2024-10-01 09:05:12.900,DuSable Lake Shore Dr & Belmont Ave,Ashland Ave & Blackhawk St,member,classic_bike,23.705566666666666
+2024-10-11 09:35:09.337,2024-10-11 09:58:43.651,DuSable Lake Shore Dr & Monroe St,Cannon Dr & Fullerton Ave,member,classic_bike,23.571900000000003
+2024-10-16 16:27:51.009,2024-10-16 16:51:12.646,DuSable Lake Shore Dr & Monroe St,Halsted St & 18th St,casual,classic_bike,23.360616666666665
+2024-10-18 16:43:54.296,2024-10-18 17:07:15.853,DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Diversey Pkwy,member,classic_bike,23.359283333333334
+2024-10-20 16:25:58.773,2024-10-20 16:49:17.762,DuSable Lake Shore Dr & Monroe St,Theater on the Lake,member,classic_bike,23.316483333333334
+2024-10-11 16:53:11.702,2024-10-11 17:16:29.402,DuSable Lake Shore Dr & North Blvd,Halsted St & Wrightwood Ave,casual,electric_bike,23.295
+2024-10-03 17:57:34.496,2024-10-03 18:20:51.371,DuSable Lake Shore Dr & Monroe St,Broadway & Cornelia Ave,casual,electric_bike,23.28125
+2024-10-11 17:46:25.271,2024-10-11 18:09:41.057,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,23.2631
+2024-10-09 17:45:24.335,2024-10-09 18:08:39.871,DuSable Lake Shore Dr & Diversey Pkwy,Wells St & Walton St,member,classic_bike,23.258933333333335
+2024-10-07 16:30:13.429,2024-10-07 16:53:23.404,DuSable Lake Shore Dr & Diversey Pkwy,Dearborn Pkwy & Delaware Pl,member,classic_bike,23.166249999999998
+2024-10-01 09:06:15.015,2024-10-01 09:29:24.898,DuSable Lake Shore Dr & Belmont Ave,Michigan Ave & Jackson Blvd,member,classic_bike,23.164716666666667
+2024-10-13 07:42:14.493,2024-10-13 08:05:22.373,DuSable Lake Shore Dr & Monroe St,Clark St & Drummond Pl,casual,electric_bike,23.131333333333334
+2024-10-08 18:14:11.892,2024-10-08 18:37:19.690,Lakefront Trail & Bryn Mawr Ave,Sheridan Rd & Argyle St,member,classic_bike,23.129966666666668
+2024-10-09 09:46:46.700,2024-10-09 10:09:50.017,DuSable Lake Shore Dr & Belmont Ave,Dearborn St & Erie St,casual,classic_bike,23.055283333333332
+2024-10-16 18:03:24.799,2024-10-16 18:26:27.686,Lakefront Trail & Bryn Mawr Ave,Halsted St & Roscoe St,member,electric_bike,23.048116666666665
+2024-10-11 17:14:43.129,2024-10-11 17:37:44.344,DuSable Lake Shore Dr & Wellington Ave,Ashland Ave & Division St,member,electric_bike,23.020249999999997
+2024-10-05 17:37:25.094,2024-10-05 18:00:24.488,DuSable Lake Shore Dr & Monroe St,Adler Planetarium,member,classic_bike,22.9899
+2024-10-26 16:28:49.090,2024-10-26 16:51:41.509,DuSable Lake Shore Dr & Monroe St,Field Museum,casual,classic_bike,22.87365
+2024-10-28 17:54:13.837,2024-10-28 18:17:06.220,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & North Blvd,member,classic_bike,22.87305
+2024-10-21 16:32:48.242,2024-10-21 16:55:39.064,DuSable Lake Shore Dr & Monroe St,Buckingham Fountain,casual,classic_bike,22.847033333333332
+2024-10-26 09:42:56.890,2024-10-26 10:05:46.111,DuSable Lake Shore Dr & Diversey Pkwy,Stetson Ave & South Water St,casual,electric_bike,22.82035
+2024-10-25 17:24:34.745,2024-10-25 17:47:23.398,Lakefront Trail & Wilson Ave,,member,electric_bike,22.810883333333333
+2024-10-03 18:09:50.695,2024-10-03 18:32:38.852,DuSable Lake Shore Dr & Diversey Pkwy,,casual,electric_bike,22.802616666666665
+2024-10-13 16:05:58.376,2024-10-13 16:28:43.067,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,casual,classic_bike,22.74485
+2024-10-21 17:03:01.037,2024-10-21 17:25:43.479,DuSable Lake Shore Dr & Monroe St,,member,electric_bike,22.707366666666665
+2024-10-04 17:20:31.755,2024-10-04 17:43:13.093,DuSable Lake Shore Dr & Diversey Pkwy,Wells St & Concord Ln,casual,classic_bike,22.688966666666666
+2024-10-18 17:49:00.974,2024-10-18 18:11:42.031,DuSable Lake Shore Dr & Wellington Ave,Indiana Ave & Roosevelt Rd,casual,electric_bike,22.684283333333333
+2024-10-13 17:06:43.149,2024-10-13 17:29:19.899,DuSable Lake Shore Dr & Monroe St,Fort Dearborn Dr & 31st St*,member,electric_bike,22.6125
+2024-10-12 16:29:32.705,2024-10-12 16:52:01.839,DuSable Lake Shore Dr & Wellington Ave,Wells St & Hubbard St,casual,electric_bike,22.485566666666667
+2024-10-22 16:26:14.728,2024-10-22 16:48:43.477,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & North Blvd,member,classic_bike,22.47915
+2024-10-23 17:18:28.206,2024-10-23 17:40:56.952,DuSable Lake Shore Dr & Diversey Pkwy,Lakefront Trail & Bryn Mawr Ave,member,classic_bike,22.479100000000003
+2024-10-07 18:00:57.298,2024-10-07 18:23:25.946,Lakefront Trail & Bryn Mawr Ave,Lakefront Trail & Bryn Mawr Ave,member,classic_bike,22.477466666666665
+2024-10-17 17:00:58.706,2024-10-17 17:23:24.726,DuSable Lake Shore Dr & Monroe St,Adler Planetarium,casual,classic_bike,22.433666666666667
+2024-10-03 09:12:34.718,2024-10-03 09:34:59.776,Lakefront Trail & Wilson Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,22.417633333333335
+2024-10-01 17:23:21.455,2024-10-01 17:45:44.656,DuSable Lake Shore Dr & Belmont Ave,,member,electric_bike,22.386683333333334
+2024-10-30 16:47:02.500,2024-10-30 17:09:21.363,Lakefront Trail & Bryn Mawr Ave,Montrose Harbor,member,classic_bike,22.314383333333335
+2024-10-19 17:54:25.805,2024-10-19 18:16:43.765,Lakefront Trail & Bryn Mawr Ave,Sheridan Rd & Loyola Ave,casual,classic_bike,22.299333333333333
+2024-10-11 08:22:39.319,2024-10-11 08:44:52.502,DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Madison St,member,electric_bike,22.219716666666667
+2024-10-10 08:06:56.703,2024-10-10 08:29:03.606,DuSable Lake Shore Dr & Diversey Pkwy,LaSalle St & Illinois St,member,classic_bike,22.11505
+2024-10-25 16:14:09.380,2024-10-25 16:36:16.254,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,22.11456666666667
+2024-10-21 16:11:08.357,2024-10-21 16:33:06.100,DuSable Lake Shore Dr & North Blvd,Pine Grove Ave & Waveland Ave,casual,electric_bike,21.96238333333333
+2024-10-04 17:15:24.696,2024-10-04 17:37:17.516,DuSable Lake Shore Dr & Monroe St,Green St & Washington Blvd,member,classic_bike,21.880333333333333
+2024-10-09 08:17:36.348,2024-10-09 08:39:26.509,DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Madison St,member,electric_bike,21.83601666666667
+2024-10-19 17:16:42.684,2024-10-19 17:38:32.366,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,casual,classic_bike,21.828033333333334
+2024-10-26 18:11:19.373,2024-10-26 18:33:06.404,DuSable Lake Shore Dr & Belmont Ave,Halsted St & Clybourn Ave,casual,classic_bike,21.783849999999997
+2024-10-18 16:05:39.790,2024-10-18 16:27:23.347,DuSable Lake Shore Dr & North Blvd,Streeter Dr/Grand Ave,casual,classic_bike,21.72595
+2024-10-20 18:32:02.644,2024-10-20 18:53:36.266,Lakefront Trail & Bryn Mawr Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,21.560366666666667
+2024-10-09 07:44:25.624,2024-10-09 08:05:42.402,DuSable Lake Shore Dr & Belmont Ave,,member,electric_bike,21.279633333333333
+2024-10-17 16:44:50.662,2024-10-17 17:05:57.896,DuSable Lake Shore Dr & Monroe St,Fairbanks Ct & Grand Ave,casual,classic_bike,21.120566666666665
+2024-10-11 08:37:51.818,2024-10-11 08:58:58.303,DuSable Lake Shore Dr & North Blvd,Burnham Harbor,casual,electric_bike,21.108083333333333
+2024-10-12 09:12:09.377,2024-10-12 09:33:13.410,DuSable Lake Shore Dr & Monroe St,Cityfront Plaza Dr & Pioneer Ct,casual,electric_bike,21.067216666666663
+2024-10-09 08:30:28.194,2024-10-09 08:51:30.566,DuSable Lake Shore Dr & Diversey Pkwy,,member,electric_bike,21.039533333333335
+2024-10-17 16:44:53.198,2024-10-17 17:05:52.274,DuSable Lake Shore Dr & Monroe St,Fairbanks Ct & Grand Ave,casual,classic_bike,20.9846
+2024-10-09 17:31:08.784,2024-10-09 17:52:04.071,DuSable Lake Shore Dr & Wellington Ave,Clark St & Bryn Mawr Ave,member,electric_bike,20.92145
+2024-10-30 16:01:22.481,2024-10-30 16:22:15.985,DuSable Lake Shore Dr & North Blvd,Marine Dr & Ainslie St,casual,electric_bike,20.89173333333333
+2024-10-19 16:27:31.822,2024-10-19 16:48:18.905,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,member,classic_bike,20.784716666666668
+2024-10-19 18:47:46.548,2024-10-19 19:08:30.756,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & North Blvd,member,classic_bike,20.736800000000002
+2024-10-03 18:53:05.557,2024-10-03 19:13:41.586,DuSable Lake Shore Dr & Wellington Ave,Carpenter St & Huron St,member,classic_bike,20.600483333333333
+2024-10-19 07:13:01.002,2024-10-19 07:33:27.737,DuSable Lake Shore Dr & Belmont Ave,Ashland Ave & Division St,member,classic_bike,20.44558333333333
+2024-10-07 17:09:54.543,2024-10-07 17:30:19.232,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,20.411483333333333
+2024-10-22 17:47:41.640,2024-10-22 18:08:04.960,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Belmont Ave,member,electric_bike,20.388666666666666
+2024-10-09 17:17:17.123,2024-10-09 17:37:40.184,DuSable Lake Shore Dr & Monroe St,Buckingham Fountain,casual,classic_bike,20.384349999999998
+2024-10-17 18:41:44.168,2024-10-17 19:02:06.624,DuSable Lake Shore Dr & Monroe St,,member,electric_bike,20.374266666666664
+2024-10-23 17:07:19.179,2024-10-23 17:27:37.569,DuSable Lake Shore Dr & North Blvd,,casual,electric_bike,20.306500000000003
+2024-10-27 09:46:20.477,2024-10-27 10:06:38.001,DuSable Lake Shore Dr & North Blvd,,member,electric_bike,20.292066666666663
+2024-10-20 16:21:21.254,2024-10-20 16:41:38.073,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,20.280316666666668
+2024-10-22 17:33:25.746,2024-10-22 17:53:39.908,DuSable Lake Shore Dr & Wellington Ave,Michigan Ave & Oak St,casual,classic_bike,20.236033333333335
+2024-10-26 18:19:12.768,2024-10-26 18:39:23.907,DuSable Lake Shore Dr & Wellington Ave,Rush St & Cedar St,member,electric_bike,20.18565
+2024-10-26 16:09:44.267,2024-10-26 16:29:45.806,DuSable Lake Shore Dr & Wellington Ave,McClurg Ct & Ohio St,member,classic_bike,20.02565
+2024-10-22 16:25:55.540,2024-10-22 16:45:56.575,Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,member,classic_bike,20.01725
+2024-10-28 17:04:10.554,2024-10-28 17:24:10.511,DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Oak St,member,classic_bike,19.999283333333334
+2024-10-20 17:44:45.191,2024-10-20 18:04:40.209,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,19.916966666666667
+2024-10-14 17:20:27.441,2024-10-14 17:40:19.229,DuSable Lake Shore Dr & Belmont Ave,,member,electric_bike,19.863133333333334
+2024-10-22 17:32:30.270,2024-10-22 17:52:21.719,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Wellington Ave,member,classic_bike,19.857483333333334
+2024-10-05 08:52:48.903,2024-10-05 09:12:38.492,DuSable Lake Shore Dr & Wellington Ave,Pine Grove Ave & Waveland Ave,member,classic_bike,19.826483333333332
+2024-10-02 16:33:17.381,2024-10-02 16:53:04.805,DuSable Lake Shore Dr & Diversey Pkwy,Lakefront Trail & Bryn Mawr Ave,member,classic_bike,19.790399999999998
+2024-10-23 08:05:36.945,2024-10-23 08:25:21.971,DuSable Lake Shore Dr & Diversey Pkwy,LaSalle St & Illinois St,member,classic_bike,19.750433333333334
+2024-10-25 09:32:22.527,2024-10-25 09:52:04.630,DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,casual,classic_bike,19.701716666666666
+2024-10-02 16:43:19.363,2024-10-02 17:02:57.203,DuSable Lake Shore Dr & Wellington Ave,State St & Randolph St,member,electric_bike,19.630666666666666
+2024-10-26 16:02:36.136,2024-10-26 16:22:12.529,Lakefront Trail & Bryn Mawr Ave,Glenwood Ave & Morse Ave,member,classic_bike,19.606550000000002
+2024-10-19 17:50:37.379,2024-10-19 18:10:11.269,DuSable Lake Shore Dr & North Blvd,Streeter Dr/Grand Ave,casual,electric_bike,19.564833333333336
+2024-10-03 17:23:34.159,2024-10-03 17:43:05.577,DuSable Lake Shore Dr & Monroe St,Clinton St & Jackson Blvd,casual,classic_bike,19.523633333333333
+2024-10-18 18:48:02.107,2024-10-18 19:07:31.395,DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Diversey Pkwy,member,classic_bike,19.488133333333334
+2024-10-28 09:14:13.071,2024-10-28 09:33:40.624,DuSable Lake Shore Dr & Wellington Ave,Michigan Ave & Oak St,member,classic_bike,19.45921666666667
+2024-10-20 17:20:57.014,2024-10-20 17:40:17.616,DuSable Lake Shore Dr & Monroe St,Burnham Harbor,casual,classic_bike,19.343366666666668
+2024-10-27 18:00:16.024,2024-10-27 18:19:35.113,DuSable Lake Shore Dr & Monroe St,Ogden Ave & Race Ave,member,classic_bike,19.31815
+2024-10-04 09:47:43.708,2024-10-04 10:07:01.459,DuSable Lake Shore Dr & Monroe St,Field Museum,casual,electric_bike,19.295849999999998
+2024-10-11 17:04:26.507,2024-10-11 17:23:40.652,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,casual,classic_bike,19.23575
+2024-10-30 07:26:16.918,2024-10-30 07:45:26.052,DuSable Lake Shore Dr & North Blvd,Michigan Ave & Lake St,member,classic_bike,19.152233333333335
+2024-10-11 08:26:05.968,2024-10-11 08:45:10.731,DuSable Lake Shore Dr & Monroe St,Peoria St & Jackson Blvd,member,classic_bike,19.079383333333332
+2024-10-26 16:44:12.310,2024-10-26 17:03:14.801,DuSable Lake Shore Dr & North Blvd,Millennium Park,casual,classic_bike,19.041516666666666
+2024-10-06 16:45:23.719,2024-10-06 17:04:24.565,DuSable Lake Shore Dr & Monroe St,Adler Planetarium,casual,classic_bike,19.0141
+2024-10-19 16:19:01.365,2024-10-19 16:38:01.559,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,19.003233333333334
+2024-10-08 18:55:41.892,2024-10-08 19:14:41.466,DuSable Lake Shore Dr & North Blvd,Field Blvd & South Water St,member,classic_bike,18.992900000000002
+2024-10-06 18:10:46.077,2024-10-06 18:29:45.335,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,18.987633333333335
+2024-10-01 17:53:19.507,2024-10-01 18:12:17.878,Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,member,classic_bike,18.97285
+2024-10-23 17:59:33.422,2024-10-23 18:18:31.776,DuSable Lake Shore Dr & Monroe St,Adler Planetarium,casual,electric_bike,18.97256666666667
+2024-10-03 17:18:12.853,2024-10-03 17:37:05.960,DuSable Lake Shore Dr & Wellington Ave,,member,electric_bike,18.885116666666665
+2024-10-23 18:44:20.911,2024-10-23 19:03:13.083,DuSable Lake Shore Dr & Diversey Pkwy,Bissell St & Armitage Ave*,member,classic_bike,18.869533333333333
+2024-10-20 17:26:40.966,2024-10-20 17:45:27.774,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,18.780133333333332
+2024-10-24 08:30:38.828,2024-10-24 08:49:25.268,DuSable Lake Shore Dr & Diversey Pkwy,Clinton St & Madison St,member,electric_bike,18.774
+2024-10-12 17:47:58.318,2024-10-12 18:06:44.296,DuSable Lake Shore Dr & Monroe St,Burnham Harbor,casual,classic_bike,18.7663
+2024-10-22 09:05:41.776,2024-10-22 09:24:26.583,DuSable Lake Shore Dr & North Blvd,Dearborn St & Adams St,member,classic_bike,18.746783333333333
+2024-10-29 08:47:34.581,2024-10-29 09:06:17.826,DuSable Lake Shore Dr & Wellington Ave,,casual,electric_bike,18.72075
+2024-10-31 09:50:35.394,2024-10-31 10:09:17.774,DuSable Lake Shore Dr & North Blvd,Michigan Ave & 18th St,member,electric_bike,18.706333333333337
+2024-10-01 09:05:55.386,2024-10-01 09:24:34.556,DuSable Lake Shore Dr & Wellington Ave,Green St & Washington Blvd,member,electric_bike,18.652833333333334
+2024-10-01 18:20:11.382,2024-10-01 18:38:47.822,DuSable Lake Shore Dr & Wellington Ave,,casual,electric_bike,18.607333333333333
+2024-10-18 16:08:20.860,2024-10-18 16:26:55.994,Lakefront Trail & Bryn Mawr Ave,Lincoln Ave & Belle Plaine Ave,member,electric_bike,18.58556666666667
+2024-10-07 08:34:36.321,2024-10-07 08:53:08.745,DuSable Lake Shore Dr & Diversey Pkwy,Halsted St & Fulton St,member,electric_bike,18.540399999999998
+2024-10-03 17:17:58.799,2024-10-03 17:36:29.700,DuSable Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,casual,classic_bike,18.515016666666668
+2024-10-26 16:44:32.371,2024-10-26 17:02:59.525,DuSable Lake Shore Dr & North Blvd,Millennium Park,casual,classic_bike,18.452566666666666
+2024-10-19 16:19:28.205,2024-10-19 16:37:52.552,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,18.405783333333332
+2024-10-10 08:07:55.180,2024-10-10 08:26:18.553,DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Oak St,member,classic_bike,18.38955
+2024-10-24 08:07:22.215,2024-10-24 08:25:44.791,DuSable Lake Shore Dr & Wellington Ave,Michigan Ave & Oak St,member,classic_bike,18.376266666666666
+2024-10-10 17:14:41.285,2024-10-10 17:33:03.031,DuSable Lake Shore Dr & Diversey Pkwy,Marine Dr & Ainslie St,member,classic_bike,18.362433333333335
+2024-10-12 07:20:00.826,2024-10-12 07:38:21.591,DuSable Lake Shore Dr & Monroe St,Wabash Ave & 16th St,member,classic_bike,18.346083333333336
+2024-10-13 09:43:22.275,2024-10-13 10:01:41.107,DuSable Lake Shore Dr & Wellington Ave,Dusable Harbor,member,classic_bike,18.31386666666667
+2024-10-19 17:58:20.325,2024-10-19 18:16:38.105,Lakefront Trail & Bryn Mawr Ave,Sheridan Rd & Loyola Ave,casual,classic_bike,18.296333333333333
+2024-10-20 09:59:19.688,2024-10-20 10:17:36.316,DuSable Lake Shore Dr & Belmont Ave,Dearborn St & Erie St,member,electric_bike,18.27713333333333
+2024-10-10 16:17:45.836,2024-10-10 16:36:01.980,DuSable Lake Shore Dr & Monroe St,Calumet Ave & 21st St,member,classic_bike,18.269066666666667
+2024-10-11 16:55:03.019,2024-10-11 17:13:14.676,DuSable Lake Shore Dr & Monroe St,Franklin St & Jackson Blvd,casual,classic_bike,18.19428333333333
+2024-10-06 16:25:02.554,2024-10-06 16:43:07.651,DuSable Lake Shore Dr & Wellington Ave,Michigan Ave & Oak St,member,classic_bike,18.08495
+2024-10-04 16:12:23.886,2024-10-04 16:30:24.166,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Monroe St,casual,electric_bike,18.004666666666665
+2024-10-11 17:55:26.649,2024-10-11 18:13:25.127,DuSable Lake Shore Dr & North Blvd,Clark St & Wellington Ave,casual,classic_bike,17.974633333333333
+2024-10-01 16:35:36.605,2024-10-01 16:53:32.790,DuSable Lake Shore Dr & North Blvd,Sheffield Ave & Fullerton Ave,casual,classic_bike,17.936416666666666
+2024-10-24 17:27:08.005,2024-10-24 17:45:03.646,DuSable Lake Shore Dr & Monroe St,Franklin St & Adams St (Temp),member,electric_bike,17.92735
+2024-10-20 18:48:47.899,2024-10-20 19:06:40.973,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,17.884566666666668
+2024-10-11 17:38:13.805,2024-10-11 17:56:02.813,DuSable Lake Shore Dr & Monroe St,LaSalle St & Illinois St,casual,classic_bike,17.8168
+2024-10-19 18:42:46.555,2024-10-19 19:00:35.109,DuSable Lake Shore Dr & Wellington Ave,,casual,electric_bike,17.809233333333335
+2024-10-01 09:37:27.747,2024-10-01 09:55:07.116,Lakefront Trail & Bryn Mawr Ave,Pine Grove Ave & Waveland Ave,member,classic_bike,17.65615
+2024-10-20 16:11:31.722,2024-10-20 16:29:05.142,Lakefront Trail & Bryn Mawr Ave,Broadway & Waveland Ave,casual,classic_bike,17.557000000000002
+2024-10-28 16:51:23.966,2024-10-28 17:08:57.228,DuSable Lake Shore Dr & Monroe St,Clark St & Elm St,member,classic_bike,17.554366666666667
+2024-10-27 17:24:25.750,2024-10-27 17:41:50.618,DuSable Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,casual,classic_bike,17.414466666666666
+2024-10-20 09:26:24.497,2024-10-20 09:43:49.115,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,electric_bike,17.4103
+2024-10-02 09:06:52.170,2024-10-02 09:24:16.112,DuSable Lake Shore Dr & North Blvd,,member,electric_bike,17.399033333333332
+2024-10-25 17:32:27.176,2024-10-25 17:49:50.473,DuSable Lake Shore Dr & North Blvd,Wells St & Hubbard St,member,classic_bike,17.388283333333334
+2024-10-19 16:56:07.938,2024-10-19 17:13:30.521,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,member,classic_bike,17.376383333333333
+2024-10-20 18:27:32.424,2024-10-20 18:44:53.177,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,17.345883333333333
+2024-10-24 08:00:01.207,2024-10-24 08:17:17.195,DuSable Lake Shore Dr & Belmont Ave,Montrose Harbor,member,classic_bike,17.266466666666666
+2024-10-05 17:57:50.284,2024-10-05 18:15:04.664,DuSable Lake Shore Dr & North Blvd,Michigan Ave & Oak St,casual,classic_bike,17.23966666666667
+2024-10-05 16:58:26.701,2024-10-05 17:15:39.903,DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,casual,electric_bike,17.220033333333333
+2024-10-13 17:13:31.538,2024-10-13 17:30:43.844,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,17.2051
+2024-10-20 16:44:08.442,2024-10-20 17:01:19.437,DuSable Lake Shore Dr & Wellington Ave,Larrabee St & Division St,member,electric_bike,17.183249999999997
+2024-10-31 16:27:41.975,2024-10-31 16:44:52.639,DuSable Lake Shore Dr & North Blvd,Paulina Ave & North Ave,member,classic_bike,17.177733333333332
+2024-10-24 08:33:36.016,2024-10-24 08:50:43.051,DuSable Lake Shore Dr & North Blvd,Franklin St & Monroe St,casual,classic_bike,17.117250000000002
+2024-10-12 09:14:15.365,2024-10-12 09:31:17.671,DuSable Lake Shore Dr & Wellington Ave,Clark St & Lincoln Ave,casual,classic_bike,17.038433333333334
+2024-10-02 07:37:03.140,2024-10-02 07:54:03.793,DuSable Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,member,classic_bike,17.010883333333332
+2024-10-13 16:06:30.597,2024-10-13 16:23:30.578,DuSable Lake Shore Dr & Monroe St,Mies van der Rohe Way & Chestnut St,member,classic_bike,16.999683333333333
+2024-10-05 16:08:14.245,2024-10-05 16:25:13.352,DuSable Lake Shore Dr & Diversey Pkwy,Lincoln Ave & Melrose St,casual,electric_bike,16.985116666666666
+2024-10-28 07:25:40.014,2024-10-28 07:42:33.547,DuSable Lake Shore Dr & North Blvd,Stetson Ave & South Water St,member,classic_bike,16.892216666666666
+2024-10-03 18:32:20.088,2024-10-03 18:49:13.066,DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Oak St,casual,electric_bike,16.882966666666665
+2024-10-11 18:27:41.786,2024-10-11 18:44:26.521,DuSable Lake Shore Dr & North Blvd,Adler Planetarium,member,electric_bike,16.745583333333332
+2024-10-07 09:47:00.044,2024-10-07 10:03:41.386,Lakefront Trail & Bryn Mawr Ave,Pine Grove Ave & Irving Park Rd,member,classic_bike,16.689033333333334
+2024-10-04 17:19:05.404,2024-10-04 17:35:45.660,DuSable Lake Shore Dr & Diversey Pkwy,Dearborn Pkwy & Delaware Pl,member,classic_bike,16.670933333333334
+2024-10-17 07:49:09.304,2024-10-17 08:05:41.942,DuSable Lake Shore Dr & Diversey Pkwy,McClurg Ct & Ohio St,casual,electric_bike,16.543966666666666
+2024-10-21 07:27:51.472,2024-10-21 07:44:24.015,DuSable Lake Shore Dr & North Blvd,Halsted St & Fulton St,casual,electric_bike,16.542383333333333
+2024-10-06 18:17:35.708,2024-10-06 18:34:05.704,DuSable Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,member,classic_bike,16.499933333333335
+2024-10-12 16:20:12.221,2024-10-12 16:36:37.602,DuSable Lake Shore Dr & North Blvd,Dearborn St & Erie St,casual,classic_bike,16.423016666666665
+2024-10-08 17:52:58.954,2024-10-08 18:09:23.261,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,casual,classic_bike,16.405116666666668
+2024-10-18 09:19:57.826,2024-10-18 09:36:20.772,DuSable Lake Shore Dr & North Blvd,Elizabeth St & Fulton St,member,electric_bike,16.382433333333335
+2024-10-17 08:47:06.447,2024-10-17 09:03:28.291,DuSable Lake Shore Dr & Wellington Ave,St. Clair St & Erie St,member,electric_bike,16.364066666666666
+2024-10-29 16:19:03.447,2024-10-29 16:35:25.138,DuSable Lake Shore Dr & Diversey Pkwy,Bissell St & Armitage Ave*,member,classic_bike,16.361516666666667
+2024-10-12 08:27:49.079,2024-10-12 08:44:09.812,DuSable Lake Shore Dr & Monroe St,Fairbanks Ct & Grand Ave,casual,classic_bike,16.34555
+2024-10-16 09:55:56.184,2024-10-16 10:12:13.471,DuSable Lake Shore Dr & Monroe St,Sheffield Ave & Wrightwood Ave,member,electric_bike,16.288116666666667
+2024-10-03 08:26:12.306,2024-10-03 08:42:27.750,DuSable Lake Shore Dr & Wellington Ave,McClurg Ct & Erie St,member,electric_bike,16.2574
+2024-10-05 17:00:02.287,2024-10-05 17:16:13.579,DuSable Lake Shore Dr & North Blvd,Dusable Harbor,casual,classic_bike,16.188200000000002
+2024-10-20 16:59:24.263,2024-10-20 17:15:35.323,DuSable Lake Shore Dr & North Blvd,Cityfront Plaza Dr & Pioneer Ct,casual,classic_bike,16.18433333333333
+2024-10-09 16:38:16.352,2024-10-09 16:54:21.732,DuSable Lake Shore Dr & Monroe St,,member,electric_bike,16.089666666666666
+2024-10-17 17:58:33.289,2024-10-17 18:14:36.972,Lakefront Trail & Wilson Ave,,casual,electric_bike,16.061383333333332
+2024-10-04 08:59:37.314,2024-10-04 09:15:39.382,DuSable Lake Shore Dr & Diversey Pkwy,,member,electric_bike,16.034466666666667
+2024-10-06 17:47:31.781,2024-10-06 18:03:29.437,DuSable Lake Shore Dr & Belmont Ave,Clark St & Schiller St,member,electric_bike,15.960933333333333
+2024-10-11 17:18:54.258,2024-10-11 17:34:48.761,Lakefront Trail & Bryn Mawr Ave,Clark St & Berwyn Ave,member,classic_bike,15.908383333333335
+2024-10-12 18:45:51.584,2024-10-12 19:01:45.297,DuSable Lake Shore Dr & Monroe St,Michigan Ave & 18th St,member,classic_bike,15.895216666666666
+2024-10-13 09:59:03.599,2024-10-13 10:14:55.711,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Monroe St,casual,classic_bike,15.868533333333334
+2024-10-22 07:21:24.415,2024-10-22 07:37:12.424,Lakefront Trail & Wilson Ave,Theater on the Lake,member,classic_bike,15.80015
+2024-10-16 18:42:16.992,2024-10-16 18:58:04.619,DuSable Lake Shore Dr & Wellington Ave,Clark St & Schiller St,casual,classic_bike,15.793783333333332
+2024-10-08 08:07:57.774,2024-10-08 08:23:39.929,DuSable Lake Shore Dr & Wellington Ave,Clark St & Drummond Pl,member,classic_bike,15.702583333333333
+2024-10-09 18:30:08.721,2024-10-09 18:45:50.253,DuSable Lake Shore Dr & North Blvd,McClurg Ct & Ohio St,member,electric_bike,15.692200000000001
+2024-10-11 17:35:04.699,2024-10-11 17:50:45.075,DuSable Lake Shore Dr & North Blvd,Fairbanks Ct & Grand Ave,member,electric_bike,15.672933333333333
+2024-10-10 07:11:15.192,2024-10-10 07:26:54.884,DuSable Lake Shore Dr & Belmont Ave,Fairbanks St & Superior St,member,electric_bike,15.661533333333333
+2024-10-30 18:41:17.334,2024-10-30 18:56:56.817,DuSable Lake Shore Dr & Wellington Ave,Broadway & Wilson Ave,member,classic_bike,15.65805
+2024-10-30 16:38:24.051,2024-10-30 16:54:02.617,Lakefront Trail & Bryn Mawr Ave,Montrose Harbor,member,classic_bike,15.642766666666667
+2024-10-21 17:49:35.404,2024-10-21 18:05:09.134,DuSable Lake Shore Dr & Belmont Ave,Clark St & Winnemac Ave,casual,electric_bike,15.562166666666666
+2024-10-06 16:54:50.226,2024-10-06 17:10:22.329,DuSable Lake Shore Dr & Diversey Pkwy,Talman Ave & Addison St,member,electric_bike,15.53505
+2024-10-19 16:45:32.961,2024-10-19 17:01:04.260,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,15.52165
+2024-10-08 18:12:02.005,2024-10-08 18:27:32.093,DuSable Lake Shore Dr & Belmont Ave,,member,electric_bike,15.501466666666666
+2024-10-05 17:52:55.295,2024-10-05 18:08:23.695,DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Wellington Ave,member,classic_bike,15.473333333333333
+2024-10-24 16:56:52.844,2024-10-24 17:12:20.813,DuSable Lake Shore Dr & Monroe St,,casual,electric_bike,15.46615
+2024-10-18 17:19:31.199,2024-10-18 17:34:56.713,Lakefront Trail & Bryn Mawr Ave,Broadway & Waveland Ave,member,classic_bike,15.425233333333333
+2024-10-11 16:11:59.006,2024-10-11 16:27:19.361,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,15.33925
+2024-10-23 08:39:32.580,2024-10-23 08:54:51.483,DuSable Lake Shore Dr & Diversey Pkwy,Sheffield Ave & Webster Ave,member,classic_bike,15.315050000000001
+2024-10-26 08:38:04.434,2024-10-26 08:53:23.051,DuSable Lake Shore Dr & Diversey Pkwy,Clifton Ave & Armitage Ave,member,classic_bike,15.310283333333333
+2024-10-07 17:55:54.244,2024-10-07 18:11:12.458,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,15.303566666666667
+2024-10-20 17:06:39.584,2024-10-20 17:21:57.232,Lakefront Trail & Bryn Mawr Ave,Clarendon Ave & Junior Ter,casual,classic_bike,15.294133333333333
+2024-10-04 17:51:03.166,2024-10-04 18:06:14.174,DuSable Lake Shore Dr & Belmont Ave,Southport Ave & Clybourn Ave,member,electric_bike,15.183466666666668
+2024-10-17 16:41:57.172,2024-10-17 16:57:06.692,Lakefront Trail & Bryn Mawr Ave,Montrose Harbor,member,classic_bike,15.158666666666667
+2024-10-28 08:54:36.729,2024-10-28 09:09:43.977,DuSable Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,member,electric_bike,15.120800000000001
+2024-10-19 16:08:15.255,2024-10-19 16:23:21.252,DuSable Lake Shore Dr & Belmont Ave,Lincoln Park Conservatory,casual,classic_bike,15.09995
+2024-10-11 17:24:22.863,2024-10-11 17:39:27.188,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,classic_bike,15.072083333333333
+2024-10-14 07:11:29.419,2024-10-14 07:26:29.537,DuSable Lake Shore Dr & Monroe St,Wells St & Randolph St,casual,electric_bike,15.001966666666668
